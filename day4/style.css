@@ -1,0 +1,41 @@
+.women{
+    font-size: 30px;
+    color: rgb(209, 117, 30);
+}
+button{
+    background-color:pink;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+body{
+    text-align: center;
+}
+.box1{
+    margin-left: 200px;
+    width: 300px;
+    height: 40px;
+    background-color: orange;
+}
+.box2{
+    margin-left:200px;
+
+     width: 20px;
+     height: 40px;
+
+}
+.box3{
+     margin-left:200px;
+    width: 300px;
+     height: 40px;
+     background-color: green;
+}
+.flag{
+    margin-left:120px;
+    width: 40px;
+    height: 40px;
+}
+div{
+    margin-top:
+}
