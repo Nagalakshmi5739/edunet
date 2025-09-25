@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pacifico&display=swap');
+
+.women{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+button{
+    background-color:pink;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+body{
+    text-align: center;
+    
+}
+.box1{
+   
+    width: 300px;
+    height: 40px;
+    background-color: orange;
+}
+.box2{
+    margin-left:120px;
+
+     width: 20px;
+     height: 40px;
+
+}
+.box3{
+    
+    width: 300px;
+     height: 40px;
+     background-color: green;
+}
+.flag{
+    
+    width: 40px;
+    height: 40px;
+}
+.container{
+    border: 2px solid black;
+    width: 300px;
+    height: 120px;
+    margin-left: 120px;
+    margin-top: 50px;
+    border-radius: 2px;
+    
+}
+.image{
+    margin-top: 20px;
+    border-radius: 20px;
+     border: 2px solid black;
+    width: 200px;
+    height: 200px;
+}
+.offer{
+   
+    border: 2px solid black;
+    width: 300px;
+    height: 650px;
+    margin-left: 120px;
+    margin-top: 50px;
+    border-radius: 20px;
+    
+}
+strong{
+    background-color:darkcyan;
+}

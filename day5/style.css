@@ -1,0 +1,63 @@
+.header{
+    background-color: lightblue;
+    width: 1140px;
+    height: 380px;
+    display: flex;
+    flex-direction:row;
+}
+.collection{
+    border-width: 2px;
+    border-style:dashed;
+    border-color:chocolate;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    margin:5px;
+    background-color: lightpink;
+    
+}
+.bottom{
+    margin-top:-15px;
+    background-color: lightgreen;
+    border: 2px solid chocolate;
+    border-radius: 5px;;
+    display: flex;
+    flex-direction: row;
+}
+.brand{
+    width: 250px;
+    height: 40px;
+    
+    margin: 5px;
+}
+img{
+    width: 200px;
+    height: 250px;
+}
+.product{
+    width:90px;
+    height: 40px;
+}
+h2{
+    margin-top: -40px;
+
+}
+h3{
+    color: red;
+    margin-top: -40px;
+}
+h5{
+    margin-top:-25px;
+    color:blue;
+
+}
+.container1{
+   
+    border: 2px solid black;
+   margin: 5px;
+    height: 320px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    display: flex;  
+    flex-direction: column;
+}
